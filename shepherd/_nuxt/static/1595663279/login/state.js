@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b,c){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1595663279",layout:"unauthz",error:b,state:{counter:0,user:{isLoggedIn:c,userName:a,fullName:a,token:a},auth:{user:b,loggedIn:c,strategy:"local"}},serverRendered:true,routePath:"\u002Flogin",config:{}}}("",null,false));
