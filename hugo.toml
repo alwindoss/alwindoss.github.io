@@ -1,0 +1,53 @@
+baseURL = 'https://alwindoss.github.io/'
+languageCode = 'en-us'
+title = 'Alwin Doss'
+theme = 'hugo-initio'
+
+[params]
+    name = "Alwin Doss"
+    description = "Disciple of Jesus | Steward | Software Engineer"
+    email = "alwin@dalw.in"
+    phone = "+91 984 514 1560"
+    address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    year = 2023
+    avatar = "images/guy.jpeg"
+    avatarclass = "circle"
+    background = ""
+    banner = "images/bg_head.jpg"
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+    author = "Alwin Doss"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownloads = true
+    showClients = true
+
+    showFooterContact = true
+    showfooterFollowMe = true
+    showFooterTextWidget = true
+    showFooterFormWidget = true
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "blog"
+    url = "/posts/"
+    weight = 5
+
+[[params.social]]
+    title = "facebook"
+    url = "https://www.facebook.com/alwindoss"
+    icon = "fab fa-facebook-square"
+    footer = true
+    sharethis = true
+    network = "facebook"
+[[params.social]]
+    title = "twitter"
+    url = "https://twitter.com/alwindoss"
+    icon = "fab fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
