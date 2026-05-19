@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Al&#39;s thoughts</title>
+    <title>Al&#39;s thoughts...</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content on Al&#39;s thoughts</description>
+    <description>Recent content on Al&#39;s thoughts...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>alwindoss84@gmail.com (Alwin Doss)</managingEditor>
-    <webMaster>alwindoss84@gmail.com (Alwin Doss)</webMaster>
+    <managingEditor>al@alwindoss.org (Alwin Doss)</managingEditor>
+    <webMaster>al@alwindoss.org (Alwin Doss)</webMaster>
     <copyright>© 2026 Alwin Doss</copyright>
     <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
