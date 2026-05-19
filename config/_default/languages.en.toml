@@ -15,7 +15,7 @@ title = "Al's thoughts..."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "Alwin Doss"
+  name = "Al"
   email = "al@alwindoss.org"
   image = "img/author.jpg"
   imageQuality = 96
