@@ -1,6 +1,6 @@
 +++
 date = '2026-05-18T23:15:32+05:30'
-draft = false
+draft = true
 title = 'Decline of Cricket in India'
 +++
 # Decline of Cricket in India
