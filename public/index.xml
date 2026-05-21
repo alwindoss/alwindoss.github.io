@@ -2,121 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Al&#39;s thoughts...</title>
-    <link>http://localhost:1313/</link>
+    <link>https://dalw.in/</link>
     <description>Recent content on Al&#39;s thoughts...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>al@alwindoss.org (Al)</managingEditor>
     <webMaster>al@alwindoss.org (Al)</webMaster>
     <copyright>© 2026 Al</copyright>
-    <lastBuildDate>Thu, 21 May 2026 14:56:53 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Receiving the Spirit</title>
-      <link>http://localhost:1313/posts/christian/receiving-the-spirit/</link>
-      <pubDate>Thu, 21 May 2026 14:56:53 +0530</pubDate>
-      <author>al@alwindoss.org (Al)</author>
-      <guid>http://localhost:1313/posts/christian/receiving-the-spirit/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Heart Where Your Treasure Is</title>
-      <link>http://localhost:1313/posts/christian/heart-where-your-treasure-is/</link>
-      <pubDate>Thu, 21 May 2026 14:54:55 +0530</pubDate>
-      <author>al@alwindoss.org (Al)</author>
-      <guid>http://localhost:1313/posts/christian/heart-where-your-treasure-is/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>You Can Make It Through</title>
-      <link>http://localhost:1313/posts/christian/you-can-make-it-through/</link>
-      <pubDate>Thu, 21 May 2026 14:53:36 +0530</pubDate>
-      <author>al@alwindoss.org (Al)</author>
-      <guid>http://localhost:1313/posts/christian/you-can-make-it-through/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Tue, 19 May 2026 00:43:22 +0530</lastBuildDate><atom:link href="https://dalw.in/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://dalw.in/about/</link>
       <pubDate>Tue, 19 May 2026 00:43:22 +0530</pubDate>
       <author>al@alwindoss.org (Al)</author>
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Where Is India Heading</title>
-      <link>http://localhost:1313/posts/politics/where-is-india-heading/</link>
-      <pubDate>Mon, 18 May 2026 23:35:05 +0530</pubDate>
-      <author>al@alwindoss.org (Al)</author>
-      <guid>http://localhost:1313/posts/politics/where-is-india-heading/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Decline of Cricket in India</title>
-      <link>http://localhost:1313/posts/sports/decline-of-cricket-in-india/</link>
-      <pubDate>Mon, 18 May 2026 23:15:32 +0530</pubDate>
-      <author>al@alwindoss.org (Al)</author>
-      <guid>http://localhost:1313/posts/sports/decline-of-cricket-in-india/</guid>
+      <guid>https://dalw.in/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>How to Use Elliptic Curve Diffie Hellman Library in Go</title>
-      <link>http://localhost:1313/posts/technology/how-to-use-elliptic-curve-diffie-hellman-library-in-go/</link>
+      <link>https://dalw.in/posts/technology/how-to-use-elliptic-curve-diffie-hellman-library-in-go/</link>
       <pubDate>Mon, 18 May 2026 23:15:32 +0530</pubDate>
       <author>al@alwindoss.org (Al)</author>
-      <guid>http://localhost:1313/posts/technology/how-to-use-elliptic-curve-diffie-hellman-library-in-go/</guid>
+      <guid>https://dalw.in/posts/technology/how-to-use-elliptic-curve-diffie-hellman-library-in-go/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>How to Win the Spiritual War</title>
-      <link>http://localhost:1313/posts/christian/how-to-win-the-spiritual-war/</link>
+      <title>How to win the Spiritual War</title>
+      <link>https://dalw.in/posts/christian/how-to-win-the-spiritual-war/</link>
       <pubDate>Sat, 10 Aug 2024 13:51:39 +0530</pubDate>
       <author>al@alwindoss.org (Al)</author>
-      <guid>http://localhost:1313/posts/christian/how-to-win-the-spiritual-war/</guid>
+      <guid>https://dalw.in/posts/christian/how-to-win-the-spiritual-war/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Why Is It Not Working?</title>
-      <link>http://localhost:1313/posts/christian/why-is-it-not-working/</link>
+      <title>Why is it not Working?</title>
+      <link>https://dalw.in/posts/christian/why-is-it-not-working/</link>
       <pubDate>Sat, 27 Jul 2024 14:41:34 +0530</pubDate>
       <author>al@alwindoss.org (Al)</author>
-      <guid>http://localhost:1313/posts/christian/why-is-it-not-working/</guid>
+      <guid>https://dalw.in/posts/christian/why-is-it-not-working/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>The Price Was His Blood</title>
-      <link>http://localhost:1313/posts/christian/the-price-was-his-blood/</link>
+      <title>Receiving the Spirit</title>
+      <link>https://dalw.in/posts/christian/receiving-the-spirit/</link>
+      <pubDate>Sun, 02 Jul 2017 14:56:53 +0530</pubDate>
+      <author>al@alwindoss.org (Al)</author>
+      <guid>https://dalw.in/posts/christian/receiving-the-spirit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Heart where your Treasure is</title>
+      <link>https://dalw.in/posts/christian/heart-where-your-treasure-is/</link>
+      <pubDate>Sun, 02 Jul 2017 14:54:55 +0530</pubDate>
+      <author>al@alwindoss.org (Al)</author>
+      <guid>https://dalw.in/posts/christian/heart-where-your-treasure-is/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>You can make it through</title>
+      <link>https://dalw.in/posts/christian/you-can-make-it-through/</link>
+      <pubDate>Sun, 02 Jul 2017 14:53:36 +0530</pubDate>
+      <author>al@alwindoss.org (Al)</author>
+      <guid>https://dalw.in/posts/christian/you-can-make-it-through/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Price was His Blood</title>
+      <link>https://dalw.in/posts/christian/the-price-was-his-blood/</link>
       <pubDate>Sun, 02 Jul 2017 14:50:27 +0530</pubDate>
       <author>al@alwindoss.org (Al)</author>
-      <guid>http://localhost:1313/posts/christian/the-price-was-his-blood/</guid>
+      <guid>https://dalw.in/posts/christian/the-price-was-his-blood/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Grace</title>
-      <link>http://localhost:1313/posts/christian/grace/</link>
+      <link>https://dalw.in/posts/christian/grace/</link>
       <pubDate>Sun, 02 Jul 2017 14:49:01 +0530</pubDate>
       <author>al@alwindoss.org (Al)</author>
-      <guid>http://localhost:1313/posts/christian/grace/</guid>
+      <guid>https://dalw.in/posts/christian/grace/</guid>
       <description></description>
       
     </item>
