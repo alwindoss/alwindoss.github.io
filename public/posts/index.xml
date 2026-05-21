@@ -4,12 +4,11 @@
     <title>Al&#39;s thoughts...</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content on Al&#39;s thoughts...</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>al@alwindoss.org (Al)</managingEditor>
     <webMaster>al@alwindoss.org (Al)</webMaster>
-    <copyright>© 2026 Al</copyright>
-    <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
