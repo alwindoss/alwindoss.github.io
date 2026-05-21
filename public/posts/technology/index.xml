@@ -4,18 +4,22 @@
     <title>Articles on Technology on Al&#39;s thoughts...</title>
     <link>http://localhost:1313/posts/technology/</link>
     <description>Recent content in Articles on Technology on Al&#39;s thoughts...</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>al@alwindoss.org (Al)</managingEditor>
     <webMaster>al@alwindoss.org (Al)</webMaster>
-    <lastBuildDate>Mon, 18 May 2026 23:15:32 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/technology/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Al</copyright>
+    <lastBuildDate>Mon, 18 May 2026 23:15:32 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/technology/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>How to Use Elliptic Curve Diffie Hellman Library in Go</title>
       <link>http://localhost:1313/posts/technology/how-to-use-elliptic-curve-diffie-hellman-library-in-go/</link>
-      <pubDate>Mon, 18 May 2026 23:15:32 +0530</pubDate><author>al@alwindoss.org (Al)</author>
+      <pubDate>Mon, 18 May 2026 23:15:32 +0530</pubDate>
+      <author>al@alwindoss.org (Al)</author>
       <guid>http://localhost:1313/posts/technology/how-to-use-elliptic-curve-diffie-hellman-library-in-go/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

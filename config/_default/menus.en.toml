@@ -25,6 +25,12 @@
  weight = 20
 
 [[main]]
+ name = "Christian"
+ parent = "Topics"
+ pageRef = "posts/christian"
+ weight = 20
+
+[[main]]
  name = "Politics"
  parent = "Topics"
  pageRef = "posts/politics"

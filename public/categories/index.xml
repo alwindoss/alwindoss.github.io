@@ -4,10 +4,12 @@
     <title>Categories on Al&#39;s thoughts...</title>
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Al&#39;s thoughts...</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>al@alwindoss.org (Al)</managingEditor>
     <webMaster>al@alwindoss.org (Al)</webMaster>
+    <copyright>© 2026 Al</copyright>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>
