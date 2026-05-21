@@ -1,7 +1,7 @@
 +++
 date = '2024-08-10T13:51:39+05:30'
 draft = false
-title = 'How to Win the Spiritual War'
+title = 'How to win the Spiritual War'
 +++
 ![Image](img/how-to-win-the-spiritual-war.jpg)
 
