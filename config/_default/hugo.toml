@@ -11,7 +11,7 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 0
 
-buildDrafts = true
+buildDrafts = false
 buildFuture = false
 
 enableEmoji = true
