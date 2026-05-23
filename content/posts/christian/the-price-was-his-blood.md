@@ -2,6 +2,8 @@
 date = '2017-07-02T14:50:27+05:30'
 draft = false
 title = 'The Price was His Blood'
+categories = ["Christianity"] # <--- Add this
+type = "christianity"
 +++
 After giving our life to Jesus when we sin, we confess but, time and again when we commit the same sin we grow to be guilty of it, we start hearing voices(accusing) within us and eventually we start doubting His mercy and His grace.
 

@@ -2,6 +2,8 @@
 date = '2017-07-02T14:53:36+05:30'
 draft = false
 title = 'You can make it through'
+categories = ["Christianity"] # <--- Add this
+type = "christianity"
 +++
 There are lots of questions lingering on our minds today.
 We ask a lot of times "How could God be pleased with me???? I am such a sinner!!!!" and there are so many poetic ways we say the same thing. It all can be summarized as "That we don't believe God is happy with us, we do not believe that He is pleased with us"

@@ -2,6 +2,8 @@
 date = '2017-07-02T14:56:53+05:30'
 draft = false
 title = 'Receiving the Spirit'
+categories = ["Christianity"] # <--- Add this
+type = "christianity"
 +++
 Galatians 3:2 says 
 "This only I want to learn from you: Did you receive the Spirit by the works of the law, or by the hearing of faith?"

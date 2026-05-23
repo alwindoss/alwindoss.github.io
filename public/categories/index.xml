@@ -2,14 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Al&#39;s thoughts...</title>
-    <link>https://dalw.in/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Al&#39;s thoughts...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>al@alwindoss.org (Al)</managingEditor>
     <webMaster>al@alwindoss.org (Al)</webMaster>
     <copyright>© 2026 Al</copyright>
-    <atom:link href="https://dalw.in/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 May 2026 23:35:05 +0530</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Politics</title>
+      <link>http://localhost:1313/categories/politics/</link>
+      <pubDate>Mon, 18 May 2026 23:35:05 +0530</pubDate>
+      <author>al@alwindoss.org (Al)</author>
+      <guid>http://localhost:1313/categories/politics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>http://localhost:1313/categories/sports/</link>
+      <pubDate>Mon, 18 May 2026 23:15:32 +0530</pubDate>
+      <author>al@alwindoss.org (Al)</author>
+      <guid>http://localhost:1313/categories/sports/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/categories/technology/</link>
+      <pubDate>Mon, 18 May 2026 23:15:32 +0530</pubDate>
+      <author>al@alwindoss.org (Al)</author>
+      <guid>http://localhost:1313/categories/technology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Christianity</title>
+      <link>http://localhost:1313/categories/christianity/</link>
+      <pubDate>Sat, 10 Aug 2024 13:51:39 +0530</pubDate>
+      <author>al@alwindoss.org (Al)</author>
+      <guid>http://localhost:1313/categories/christianity/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

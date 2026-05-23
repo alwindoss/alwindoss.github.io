@@ -2,6 +2,8 @@
 date = '2024-07-27T14:41:34+05:30'
 draft = false
 title = 'Why is it not Working?'
+categories = ["Christianity"] # <--- Add this
+type = "christianity"
 +++
 We may wonder why is the word of God not bearing fruit in my life. Every time I go for a retreat or for a service in church I am filled with energy and I pray and read the word diligently for the next days, weeks or months and then the energy level comes down and eventually prayer and reading the word of God becomes a history in my life. This may be the case for a person who is working or studying or who is married and is at home caring for the children.
 

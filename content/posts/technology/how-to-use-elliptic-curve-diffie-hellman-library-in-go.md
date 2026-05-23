@@ -2,6 +2,8 @@
 date = '2026-05-18T23:15:32+05:30'
 draft = false
 title = 'How to Use Elliptic Curve Diffie Hellman Library in Go'
+categories = ["technology"] # <--- Add this
+type = "technology"
 +++
 Go introduced a new library called [Elliptic Curve Diffie Hellman](https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman)([crypto/ecdh](https://pkg.go.dev/crypto/ecdh)) in v1.20.
 

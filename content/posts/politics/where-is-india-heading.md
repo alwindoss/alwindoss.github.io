@@ -2,6 +2,8 @@
 date = '2026-05-18T23:35:05+05:30'
 draft = true
 title = 'Where Is India Heading'
+categories = ["Politics"] # <--- Add this
+type = "politics"
 +++
 # Where is India heading
 

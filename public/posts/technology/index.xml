@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Technology on Al&#39;s thoughts...</title>
-    <link>https://dalw.in/posts/technology/</link>
+    <link>http://localhost:1313/posts/technology/</link>
     <description>Recent content in Articles on Technology on Al&#39;s thoughts...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>al@alwindoss.org (Al)</managingEditor>
     <webMaster>al@alwindoss.org (Al)</webMaster>
     <copyright>© 2026 Al</copyright>
-    <lastBuildDate>Mon, 18 May 2026 23:15:32 +0530</lastBuildDate><atom:link href="https://dalw.in/posts/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 May 2026 23:15:32 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/technology/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How to Use Elliptic Curve Diffie Hellman Library in Go</title>
-      <link>https://dalw.in/posts/technology/how-to-use-elliptic-curve-diffie-hellman-library-in-go/</link>
+      <link>http://localhost:1313/posts/technology/how-to-use-elliptic-curve-diffie-hellman-library-in-go/</link>
       <pubDate>Mon, 18 May 2026 23:15:32 +0530</pubDate>
       <author>al@alwindoss.org (Al)</author>
-      <guid>https://dalw.in/posts/technology/how-to-use-elliptic-curve-diffie-hellman-library-in-go/</guid>
+      <guid>http://localhost:1313/posts/technology/how-to-use-elliptic-curve-diffie-hellman-library-in-go/</guid>
       <description></description>
       
     </item>

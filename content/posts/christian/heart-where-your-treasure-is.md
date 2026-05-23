@@ -2,6 +2,8 @@
 date = '2017-07-02T14:54:55+05:30'
 draft = false
 title = 'Heart where your Treasure is'
+categories = ["Christianity"] # <--- Add this
+type = "christianity"
 +++
 Mathew 6:19-21
 “*Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal, but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal, For where your treasure is, there your heart will be also.*”

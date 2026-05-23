@@ -2,6 +2,8 @@
 date = '2017-07-02T14:49:01+05:30'
 draft = false
 title = 'Grace'
+categories = ["Christianity"] # <--- Add this
+type = "christianity"
 +++
 What is grace?
 

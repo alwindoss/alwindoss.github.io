@@ -2,6 +2,8 @@
 date = '2024-08-10T13:51:39+05:30'
 draft = false
 title = 'How to win the Spiritual War'
+categories = ["Christianity"] # <--- Add this
+type = "christianity"
 +++
 ![Image](img/how-to-win-the-spiritual-war.jpg)
 
